@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "Towards Eternity",
+        "Description": "Towards Eternity İlim ve Kültür Derneği..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "Towards Eternity",
+        "WhoWeAreWe": "Siapa Kami?",
+        "Hashtag": "JadilahTakTerbatas"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "Bagikan",
+        "Whatsapp": "Bagikan di Whatsapp",
+        "WhatsappText": "Aplikasi dan Tautan Towards Eternity di Sini!",
+        "Telegram": "Bagikan di Telegram",
+        "TelegramText": "Aplikasi dan Tautan Towards Eternity di Sini!",
+        "CopyLink": "Salin Tautan",
+        "LinkCopied": "Tautan Disalin"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "Youtube",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "Instagram",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "Twitter",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "Telegram",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "TikTok",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "Spotify",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "Patreon",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "Siapa Kami?",
+        "Content": "<h2>Di Mana Perjalanan yang Mencapai Jutaan Ini Dimulai?</h2><p>Tahun 2010… Beberapa mahasiswa berkumpul untuk sebuah tujuan. Mereka ingin melakukan sesuatu untuk para pemuda umat yang hancur dan terluka karena dosa. Mereka khawatir… Mereka khawatir… Mereka khawatir… Harus ada cara untuk menyentuh hati jutaan orang. Untuk membuat suara Anda didengar…</p><p><b>Menemukan Cara untuk Menceritakan tentang Allah di Mana Saja</b> Harus ada cara untuk menjadi penerimaan doa yang dipanjatkan para ibu untuk anak-anak mereka. Kekhawatiran memberi kekuatan pada doa. Perjalanan yang dimulai dengan kamera dan mikrofon kecil menjadi saluran YouTube dengan 3 juta pelanggan.</p><h3>Kamera Kecil dan Rekaaam!</h3><p>Dengan percakapan yang tulus, simpatik, dan terkadang mengesankan dari bahasa anak muda, kehidupan ribuan orang berubah. Itu menuntun beberapa orang untuk sholat… Beberapa orang untuk mengenakan jilbab… Beberapa orang untuk meninggalkan yang tidak sah. Allah dan Rasul-Nya (saw) diceritakan dengan memasuki jutaan rumah dengan kabel internet.</p>"
     }
 }

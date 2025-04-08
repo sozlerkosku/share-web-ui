@@ -8,8 +8,11 @@ import { AiOutlineGlobal } from 'react-icons/ai';
 import { Loader } from '@/components/icons/loader';
 import { Button } from '@/components/ui/button';
 import {
-    DropdownMenu, DropdownMenuContent, DropdownMenuFlagItem, DropdownMenuRadioGroup,
-    DropdownMenuTrigger
+  DropdownMenu,
+  DropdownMenuContent,
+  DropdownMenuFlagItem,
+  DropdownMenuRadioGroup,
+  DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu';
 import { usePathname, useRouter } from '@/i18n/navigation';
 import { locales } from '@/utils/constants';
@@ -33,7 +36,7 @@ export const LocaleSwitcher = () => {
   if (!mounted) {
     return (
       <Button size="icon" variant="ghost">
-        <Loader className="size-5 animate-spin text-zinc-400" />
+        <Loader className="size-5 animate-spin text-white" />
         <span className="sr-only">Loading...</span>
       </Button>
     );

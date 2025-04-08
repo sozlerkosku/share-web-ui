@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "So'zlar Ko'shki",
+        "Description": "So'zlar Ko'shki Ilm va Madaniyat Uyushmasi..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "So'zlar Ko'shki",
+        "WhoWeAreWe": "Biz Kimiz?",
+        "Hashtag": "SonsuzBo'l"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "Ulashish",
+        "Whatsapp": "Whatsapp'da Ulashish",
+        "WhatsappText": "So'zlar Ko'shki Ilovalari va Havolalari Bu Yerda!",
+        "Telegram": "Telegram'da Ulashish",
+        "TelegramText": "So'zlar Ko'shki Ilovalari va Havolalari Bu Yerda!",
+        "CopyLink": "Havolani Nusxalash",
+        "LinkCopied": "Havola Nusxalandi"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "Youtube",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "Instagram",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "Twitter",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "Telegram",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "TikTok",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "Spotify",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "Patreon",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "Biz Kimiz?",
+        "Content": "<h2>Bu Millionlarga Erishgan Sayohat Qayerda Boshlandi?</h2><p>Yil 2010… Bir nechta universitet talabalari bir maqsad uchun yig'ildi. Gunohlar qarshisida erib, jarohatlangan ummatning yoshlari uchun biror narsa qilishni istashdi. Dardlashdilar… Dardlashdilar… Dardlashdilar… Millionlarning qalbida aks sado berishning bir yo'li bo'lishi kerak edi. O'z ovozini eshittirishning…</p><p><b>Allohni Har Yerda Anlatishning Bir Yo'lini Topish</b> Onalarning farzandlari uchun qilgan duosining qabul bo'lishining bir yo'li bo'lishi kerak edi. Dardlar duoga kuch berdi. Kichik kamera va mikrofon bilan boshlangan sayohat 3 million obunachiga ega youtube kanaliga aylandi.</p><h3>Kichik Kamera va Yozuvvv!</h3><p>Yoshlarning tilidan samimiy, yoqimli va ba'zan ta'sirli suhbatlar bilan minglab odamlarning hayoti o'zgardi. Kimningdir namoziga… Kimningdir hijobiga… Kimningdir noqonuniyni tark etishiga sabab bo'lindi. Internet kabeli orqali millionlab uylarga kirib, Alloh va Rosuli (a.s) anlatildi.</p>"
     }
 }

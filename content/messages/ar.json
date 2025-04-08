@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "مؤسسة الكلمة",
+        "Description": "مؤسسة الكلمة للعلوم والثقافة..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "مؤسسة الكلمة",
+        "WhoWeAreWe": "من نحن؟",
+        "Hashtag": "إلى_الأبد"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "شارك",
+        "Whatsapp": "شارك على الواتساب",
+        "WhatsappText": "تطبيقات وروابط مؤسسة الكلمة هنا!",
+        "Telegram": "شارك على التيليجرام",
+        "TelegramText": "تطبيقات وروابط مؤسسة الكلمة هنا!",
+        "CopyLink": "نسخ الرابط",
+        "LinkCopied": "تم نسخ الرابط"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "يوتيوب",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "انستغرام",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "تويتر",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "تيليجرام",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "تيك توك",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "سبوتيفاي",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "باتريون",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "من نحن؟",
+        "Content": "<h2>أين بدأت هذه الرحلة التي وصلت إلى الملايين؟</h2><p>عام 2010... اجتمع عدد قليل من طلاب الجامعات من أجل هدف واحد. أرادوا أن يفعلوا شيئًا لشباب الأمة الذين تآكلوا وتضرروا بسبب الذنوب. لقد اهتموا... اهتموا... اهتموا... يجب أن تكون هناك طريقة للمس قلوب الملايين. لتتمكن من إسماع صوتك...</p><p><b>إيجاد طريقة لشرح الله في كل مكان</b> يجب أن تكون هناك طريقة لتكون قبول دعاء الأمهات لأبنائهن. أعطت الهموم قوة للصلاة. أصبحت الرحلة التي بدأت بكاميرا وميكروفون صغيرين قناة يوتيوب تضم 3 ملايين مشترك.</p><h3>كاميرا صغيرة وتسجيل!</h3><p>تغيرت حياة الآلاف بمحادثات صادقة وودية ومؤثرة أحيانًا بلغة الشباب. لقد ساهم في صلاة البعض... حجاب البعض... وتخلي البعض عن المحظورات. تم شرح الله ورسوله (صلى الله عليه وسلم) في ملايين المنازل عن طريق كابل إنترنت.</p>"
     }
 }

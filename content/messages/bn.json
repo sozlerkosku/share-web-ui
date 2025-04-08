@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "সোজলার কোস্কু",
+        "Description": "সোজলার কোস্কু জ্ঞান ও সংস্কৃতি সমিতি..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "সোজলার কোস্কু",
+        "WhoWeAreWe": "আমরা কে?",
+        "Hashtag": "সনসুজওল"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "শেয়ার",
+        "Whatsapp": "হোয়াটসঅ্যাপে শেয়ার করুন",
+        "WhatsappText": "সোজলার কোস্কু অ্যাপ্লিকেশন এবং লিঙ্কগুলি এখানে!",
+        "Telegram": "টেলিগ্রামে শেয়ার করুন",
+        "TelegramText": "সোজলার কোস্কু অ্যাপ্লিকেশন এবং লিঙ্কগুলি এখানে!",
+        "CopyLink": "লিঙ্ক কপি করুন",
+        "LinkCopied": "লিঙ্ক কপি করা হয়েছে"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "Youtube",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "Instagram",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "Twitter",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "Telegram",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "TikTok",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "Spotify",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "Patreon",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "আমরা কারা?",
+        "Content": "<h2>কোথায় শুরু হয়েছিল এই লক্ষ লক্ষ মানুষের যাত্রা?</h2><p>বছর ২০১০... কয়েকজন বিশ্ববিদ্যালয়ের ছাত্র একটি লক্ষ্যের জন্য একত্রিত হয়েছিল। তারা সেই যুবকদের জন্য কিছু করতে চেয়েছিল যারা পাপের কারণে ক্ষতিগ্রস্ত হয়েছে। তারা চিন্তিত ছিল... তারা চিন্তিত ছিল... তারা চিন্তিত ছিল... লক্ষ লক্ষ মানুষের হৃদয়ে পৌঁছানোর একটি উপায় থাকা উচিত। তাদের আওয়াজ জানানোর...</p><p><b>একটি উপায় খুঁজে বের করে সর্বত্র আল্লাহকে বর্ণনা করা</b> মায়েদের তাদের সন্তানদের জন্য করা দোয়ার কবুল হওয়ার একটি উপায় থাকা উচিত ছিল। কষ্টগুলো প্রার্থনায় শক্তি যোগিয়েছে। একটি ছোট ক্যামেরা এবং মাইক্রোফোন দিয়ে শুরু হওয়া যাত্রা ৩ মিলিয়ন সাবস্ক্রাইবার সহ একটি ইউটিউব চ্যানেল হয়ে উঠেছে।</p><h3>একটি ছোট ক্যামেরা এবং রেকর্ডিং!</h3><p>তরুণদের মুখ থেকে আন্তরিক, বন্ধুত্বপূর্ণ এবং কখনও কখনও প্রভাবশালী আলোচনার মাধ্যমে হাজার হাজার মানুষের জীবন পরিবর্তিত হয়েছে। কেউ নামাজ পড়তে শুরু করেছে... কেউ পর্দা করা শুরু করেছে... কেউ অবৈধ কাজ ত্যাগ করেছে। একটি ইন্টারনেট তারের মাধ্যমে লক্ষ লক্ষ বাড়িতে প্রবেশ করে আল্লাহ ও তাঁর রাসূলের (সা.) কথা বলা হয়েছে।</p>"
     }
 }

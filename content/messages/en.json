@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "Towards Eternity",
+        "Description": "Towards Eternity Science and Culture Association..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "Towards Eternity",
+        "WhoWeAreWe": "Who Are We?",
+        "Hashtag": "BeEternal"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "Share",
+        "Whatsapp": "Share on Whatsapp",
+        "WhatsappText": "Towards Eternity Apps and Links are Here!",
+        "Telegram": "Share on Telegram",
+        "TelegramText": "Towards Eternity Apps and Links are Here!",
+        "CopyLink": "Copy Link",
+        "LinkCopied": "Link Copied"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "Youtube",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "Instagram",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "Twitter",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "Telegram",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "TikTok",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "Spotify",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "Patreon",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "Who Are We?",
+        "Content": "<h2>Where Did This Journey That Reached Millions Begin?</h2><p>Year 2010... A few university students came together for a purpose. They wanted to do something for the youth of the ummah who were wounded and melting away in the face of sins. They worried... They worried... They worried... There had to be a way to touch the hearts of millions. To make their voice heard...</p><p><b>Finding a Way to Talk About Allah Everywhere</b> There had to be a way to be the answer to mothers' prayers for their children. Troubles strengthened prayers. A journey that started with a small camera and microphone became a YouTube channel with 3 million subscribers.</p><h3>A Small Camera and Action!</h3><p>Through sincere, sympathetic, and sometimes touching talks in the language of youth, thousands of lives changed. Some started praying... Some embraced hijab... Some left what was forbidden. They entered millions of homes through an internet cable and talked about Allah and His Messenger (peace be upon him).</p>"
     }
 }

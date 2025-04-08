@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "سوزلر کوشکو",
+        "Description": "انجمن علم و فرهنگ سوزلر کوشکو..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "سوزلر کوشکو",
+        "WhoWeAreWe": "ما کی هستیم؟",
+        "Hashtag": "بی نهایت باش"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "به اشتراک گذاشتن",
+        "Whatsapp": "به اشتراک گذاشتن در واتساپ",
+        "WhatsappText": "برنامه ها و لینک های سوزلر کوشکو اینجا!",
+        "Telegram": "به اشتراک گذاشتن در تلگرام",
+        "TelegramText": "برنامه ها و لینک های سوزلر کوشکو اینجا!",
+        "CopyLink": "کپی لینک",
+        "LinkCopied": "لینک کپی شد"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "یوتیوب",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "اینستاگرام",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "توییتر",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "تلگرام",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "تیک تاک",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "اسپاتیفای",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "پاتreon",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "ما کی هستیم؟",
+        "Content": "<h2>این سفر میلیون ها نفری از کجا شروع شد؟</h2><p>سال 2010 ... چند دانشجوی دانشگاه برای یک هدف گرد هم آمدند. آنها می خواستند برای جوانان امت که در برابر گناهان ذوب شده و آسیب دیده اند، کاری انجام دهند. آنها غمگین بودند ... غمگین بودند ... غمگین بودند ... باید راهی برای لمس قلب میلیون ها نفر وجود داشته باشد. راهی برای رساندن صدای خود ...</p><p><b>پیدا کردن راهی برای گفتن نام خدا در همه جا</b> باید راهی وجود داشته باشد تا دعای مادران برای فرزندانشان مستجاب شود. مشکلات به دعا قوت بخشید. سفری که با یک دوربین و میکروفون کوچک آغاز شد، به یک کانال یوتیوب با 3 میلیون مشترک تبدیل شد.</p><h3>یک دوربین کوچک و ضبط!</h3><p>زندگی هزاران نفر با سخنرانی های صمیمانه، دلسوزانه و گاهی تاثیرگذار جوانان تغییر کرد. این وسیله ای برای نماز برخی ... برای حجاب برخی ... برای ترک نامشروع برخی دیگر بود. با یک کابل اینترنت، وارد میلیون ها خانه شد و خدا و رسولش (ص) را موعظه کرد.</p>"
     }
 }

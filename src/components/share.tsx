@@ -26,7 +26,7 @@ export const Share = () => {
   return (
     <Dialog.Root>
       <Dialog.Trigger asChild>
-        <button className="absolute right-10 top-10 cursor-pointer border-2 border-black text-white rounded-full bg-orange-500 hover:bg-orange-600">
+        <button className="absolute right-10 top-10 cursor-pointer border-2 border-white text-white rounded-full bg-orange-500 hover:bg-orange-600">
           <BiShare className="w-14 h-14 p-4" />
         </button>
       </Dialog.Trigger>

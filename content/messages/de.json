@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "Towards Eternityü",
+        "Description": "Towards Eternityü Wissenschafts- und Kulturverein..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "Towards Eternityü",
+        "WhoWeAreWe": "Wer sind wir?",
+        "Hashtag": "SeiEwig"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "Teilen",
+        "Whatsapp": "Auf Whatsapp teilen",
+        "WhatsappText": "Hier sind die Towards Eternityü Apps und Links!",
+        "Telegram": "Auf Telegram teilen",
+        "TelegramText": "Hier sind die Towards Eternityü Apps und Links!",
+        "CopyLink": "Link kopieren",
+        "LinkCopied": "Link kopiert"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "Youtube",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "Instagram",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "Twitter",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "Telegram",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "TikTok",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "Spotify",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "Patreon",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "Wer sind wir?",
+        "Content": "<h2>Wo begann diese Reise, die Millionen erreichte?</h2><p>Es war 2010... Einige Universitätsstudenten kamen für ein Ziel zusammen. Sie wollten etwas für die Jugend der Umma tun, die unter Sünden litt. Sie waren besorgt... besorgt... besorgt... Es musste einen Weg geben, die Herzen von Millionen zu berühren. Ihre Stimme hörbar zu machen...</p><p><b>Einen Weg finden, überall von Allah zu erzählen</b> Es musste einen Weg geben, die Gebete der Mütter für ihre Kinder zu erfüllen. Sorgen gaben den Gebeten Kraft. Eine Reise, die mit einer kleinen Kamera und einem Mikrofon begann, wurde zu einem YouTube-Kanal mit 3 Millionen Abonnenten.</p><h3>Eine kleine Kamera und Action!</h3><p>Mit aufrichtigen, sympathischen und manchmal bewegenden Gesprächen in der Sprache der Jugend veränderte sich das Leben von Tausenden. Manchen half es beim Gebet... manchen bei der Verschleierung... manchen beim Aufgeben des Unerlaubten. Durch ein Internetkabel erreichten sie Millionen von Häusern und erzählten von Allah und seinem Gesandten (FSmi).</p>"
     }
 }

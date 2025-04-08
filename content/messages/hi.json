@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "सोज़लर कोस्कु",
+        "Description": "सोज़लर कोस्कु इलिम वे कुल्तुर डेरनेगी..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "सोज़लर कोस्कु",
+        "WhoWeAreWe": "हम कौन हैं?",
+        "Hashtag": "अनंतहो"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "शेयर करें",
+        "Whatsapp": "व्हाट्सएप पर शेयर करें",
+        "WhatsappText": "सोज़लर कोस्कु एप्लिकेशन और लिंक यहां!",
+        "Telegram": "टेलीग्राम पर शेयर करें",
+        "TelegramText": "सोज़लर कोस्कु एप्लिकेशन और लिंक यहां!",
+        "CopyLink": "लिंक कॉपी करें",
+        "LinkCopied": "लिंक कॉपी हो गया"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "यूट्यूब",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "इंस्टाग्राम",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "ट्विटर",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "टेलीग्राम",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "टिकटॉक",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "स्पॉटिफाई",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "पेट्रियन",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "हम कौन हैं?",
+        "Content": "<h2>यह लाखों तक की यात्रा कहाँ से शुरू हुई?</h2><p>वर्ष 2010... कुछ विश्वविद्यालय के छात्र एक उद्देश्य के लिए एक साथ आए। वे पापों के सामने पिघल रहे और घायल हो रहे उम्माह के युवाओं के लिए कुछ करना चाहते थे। वे चिंतित थे... वे चिंतित थे... वे चिंतित थे... लाखों लोगों के दिलों को छूने का एक तरीका होना चाहिए। अपनी आवाज उठाने का...</p><p><b>हर जगह अल्लाह के बारे में बताने का एक तरीका खोजना</b> माताओं की अपने बच्चों के लिए की गई प्रार्थना को स्वीकार करने का एक तरीका होना चाहिए। चिंताओं ने प्रार्थना को ताकत दी। एक छोटे कैमरे और माइक्रोफोन से शुरू हुई यात्रा 3 मिलियन ग्राहकों वाला एक यूट्यूब चैनल बन गई।</p><h3>एक छोटा कैमरा और रिकॉर्डिंग!</h3><p>युवाओं की भाषा में ईमानदार, सहानुभूतिपूर्ण और कभी-कभी प्रभावशाली भाषणों से हजारों लोगों के जीवन बदल गए। कुछ लोगों की प्रार्थनाएँ... कुछ लोगों का पर्दा... कुछ लोगों को नाजायज को छोड़ने में मदद मिली। एक इंटरनेट केबल के माध्यम से, अल्लाह और उसके रसूल (शांति उस पर हो) को लाखों घरों में समझाया गया।</p>"
     }
 }

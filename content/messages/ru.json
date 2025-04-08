@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "Навстречу Вечности",
+        "Description": "Навстречу Вечности Илим ве Кюльтюр Дернеги..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "Навстречу Вечности",
+        "WhoWeAreWe": "Кто мы?",
+        "Hashtag": "Будьбесконечным"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "Поделиться",
+        "Whatsapp": "Поделиться в Whatsapp",
+        "WhatsappText": "Навстречу Вечности Приложения и ссылки здесь!",
+        "Telegram": "Поделиться в Telegram",
+        "TelegramText": "Навстречу Вечности Приложения и ссылки здесь!",
+        "CopyLink": "Копировать ссылку",
+        "LinkCopied": "Ссылка скопирована"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "Youtube",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "Instagram",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "Twitter",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "Telegram",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "TikTok",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "Spotify",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "Patreon",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "Кто мы?",
+        "Content": "<h2>Где началось это путешествие, достигшее миллионов?</h2><p>Год 2010… Несколько студентов собрались вместе для достижения цели. Они хотели что-то сделать для молодежи уммы, которая таяла и страдала от грехов. Они забеспокоились… Забеспокоились… Забеспокоились… Должен быть способ коснуться сердец миллионов. Чтобы быть услышанным…</p><p><b>Найти способ рассказать об Аллахе везде</b> Должен быть способ принять молитву матерей за своих детей. Беды придали сил молитве. Путешествие, начавшееся с небольшой камеры и микрофона, превратилось в YouTube-канал с 3 миллионами подписчиков.</p><h3>Небольшая камера и запись!</h3><p>Жизни тысяч людей изменились благодаря искренним, симпатичным, а иногда и впечатляющим речам из уст молодежи. Кто-то начал молиться… Кто-то начал носить хиджаб… Кто-то перестал совершать греховное. С помощью интернет-кабеля Аллах и Его Посланник (мир ему и благословение Аллаха) были рассказаны миллионам домов.</p>"
     }
 }

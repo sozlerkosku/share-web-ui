@@ -1,20 +1,54 @@
 {
     "Meta": {
-        "Title": "Sözler Köşkü",
-        "Description": "Sözler Köşkü İlim ve Kültür Derneği..."
+        "Title": "سوزلر کوشکو",
+        "Description": "سوزلر کوشکو علم و ثقافت ایسوسی ایشن..."
     },
     "Home": {
-        "Title": "Sözler Köşkü",
-        "WhoWeAreWe": "Biz Kimiz?"
+        "Title": "سوزلر کوشکو",
+        "WhoWeAreWe": "ہم کون ہیں؟",
+        "Hashtag": "لامتناہی بنو"
     },
-    "Social": {
-        "youtube": "Youtube",
-        "instagram": "Instagram",
-        "twitter": "Twitter",
-        "linkedin": "Linkedin",
-        "tiktok": "Tiktok",
-        "facebook": "Facebook",
-        "telegram": "Telegram",
-        "whatsapp": "Whatsapp"
+    "Share": {
+        "Title": "بانٹیں",
+        "Whatsapp": "واٹس ایپ پر بانٹیں",
+        "WhatsappText": "سوزلر کوشکو ایپلی کیشنز اور لنکس یہاں ہیں!",
+        "Telegram": "ٹیلیگرام پر بانٹیں",
+        "TelegramText": "سوزلر کوشکو ایپلی کیشنز اور لنکس یہاں ہیں!",
+        "CopyLink": "لنک کاپی کریں",
+        "LinkCopied": "لنک کاپی ہو گیا"
+    },
+    "SocialMedia": {
+        "Youtube": {
+            "Title": "یوٹیوب",
+            "URL": "https://www.youtube.com/channel/UCN5t14BCdTIQ-116TxJuBMg"
+        },
+        "Instagram": {
+            "Title": "انسٹاگرام",
+            "URL": "https://www.instagram.com/sozlerkosku"
+        },
+        "Twitter": {
+            "Title": "ایکس",
+            "URL": "https://x.com/sozler_kosku"
+        },
+        "Telegram": {
+            "Title": "ٹیلیگرام",
+            "URL": "https://t.me/sozlerkoskuresmi"
+        },
+        "TikTok": {
+            "Title": "ٹک ٹاک",
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+        },
+        "Spotify": {
+            "Title": "اسپاٹائف",
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+        },
+        "Patreon": {
+            "Title": "پیٹریون",
+            "URL": "https://www.patreon.com/towardseternity"
+        }
+    },
+    "WhoWeAre": {
+        "Title": "ہم کون ہیں؟",
+        "Content": "<h2>یہ لاکھوں تک پہنچنے والا سفر کہاں سے شروع ہوا؟</h2><p>سال 2010… چند یونیورسٹی کے طلباء ایک مقصد کے لیے اکٹھے ہوئے۔ وہ امت کے ان نوجوانوں کے لیے کچھ کرنا چاہتے تھے جو گناہوں کے سامنے پگھل رہے تھے اور زخمی ہو رہے تھے۔ وہ پریشان تھے… وہ پریشان تھے… وہ پریشان تھے… لاکھوں کے دلوں کو چھونے کا ایک طریقہ ہونا چاہیے تھا۔ اپنی آواز بلند کرنے کا…</p><p><b>اللہ کو ہر جگہ بتانے کا ایک طریقہ تلاش کرنا</b> ماؤں کی اپنے بچوں کے لیے کی جانے والی دعا کی قبولیت کا ایک طریقہ ہونا چاہیے تھا۔ پریشانیوں نے دعا کو تقویت بخشی۔ ایک چھوٹے کیمرے اور مائیکروفون سے شروع ہونے والا سفر ایک یوٹیوب چینل بن گیا جس کے 3 ملین سبسکرائبرز تھے۔</p><h3>ایک چھوٹا کیمرہ اور ریکارڈ!</h3><p>نوجوانوں کی زبان سے مخلصانہ، ہمدردانہ اور بعض اوقات متاثر کن گفتگو کے ذریعے ہزاروں کی زندگیاں بدل گئیں۔ کسی کی نماز… کسی کے حجاب… کسی کے ناجائز کو ترک کرنے کا سبب بنا۔ ایک انٹرنیٹ کیبل کے ذریعے لاکھوں گھروں میں داخل ہو کر اللہ اور اس کے رسول (صلی اللہ علیہ وسلم) کے بارے میں بتایا گیا۔</p>"
     }
 }
