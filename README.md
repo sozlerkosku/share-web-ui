@@ -2,7 +2,9 @@
 
 [![Support Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/mustafagenc/sozlerkosku-share-web-ui/badge)](https://www.codefactor.io/repository/github/mustafagenc/sozlerkosku-share-web-ui) [![HelpWanted](https://img.shields.io/badge/Help%20Wanted-Contribute-blue)](https://github.com/sozlerkosku/share-web-ui/issues?q=is:issue+is:open+label:%22%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8Fhelp+wanted%22) [![Commit Per Month](https://img.shields.io/github/commit-activity/m/sozlerkosku/share-web-ui?)](https://github.com/sozlerkosku/share-web-ui/commits/main) [![Last Commit](https://img.shields.io/github/last-commit/sozlerkosku/share-web-ui?)](https://github.com/sozlerkosku/share-web-ui/commits/main) ![License](https://img.shields.io/github/license/sozlerkosku/share-web-ui?label=License) [![Github Star](https://img.shields.io/github/stars/sozlerkosku/share-web-ui)](https://github.com/sozlerkosku/share-web-ui/stargazers)
 
+[Live Demo](https://sozlerkosku-share.vercel.app) ·
 [Report Bug](https://github.com/sozlerkosku/share-web-ui/issues) ·
 [Request Feature](https://github.com/sozlerkosku/share-web-ui/issues)
 
