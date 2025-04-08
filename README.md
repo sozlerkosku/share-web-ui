@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sözler Köşkü İlim ve Kültür Derneği
 
-## Getting Started
+[![Support Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
-First, run the development server:
+
+[Report Bug](https://github.com/sozlerkosku/share-web-ui/issues) ·
+[Request Feature](https://github.com/sozlerkosku/share-web-ui/issues)
+
+## 🪄 Stack
+
+- [`Next.js`](https://nextjs.org/)
+- [`TypeScript`](https://www.typescriptlang.org/)
+- [`TailwindCSS`](https://tailwindcss.com/)
+- [`Vercel`](https://vercel.com/)
+- [`Resend`](https://resend.com/)
+
+## 🏁 Run project locally
+
+Run the following command on your local environment:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Clone this project
+git clone https://github.com/sozlerkosku/share-web-ui.git
+
+# Access
+cd share-web-ui
+
+# Install dependencies
+yarn
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then, you can run the project locally in development mode with live reload by executing:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+yarn dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000) with your favorite browser to see your project.
 
-## Learn More
+## 🎮 Scripts
 
-To learn more about Next.js, take a look at the following resources:
+- `dev`: starts the application at `localhost:3000`;
+- `build`: creates an optimized production build of the application;
+- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
+- `lint`: runs eslint in the /src directory.
+- `prettier`: runs prettier in the /src directory.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💬 Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Please feel free to contact me at [mustafagenc.info/contact](https://mustafagenc.info/contact)
