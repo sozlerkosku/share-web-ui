@@ -10,9 +10,9 @@ import { Footer } from '@/components/footer';
 import { Header } from '@/components/header';
 import { routing } from '@/i18n/routing';
 import Providers from '@/providers/providers';
-import { env } from '@/utils/env';
 
 import type { Metadata } from 'next';
+import { PUBLIC_SITE_URL } from '@/utils/constants';
 
 const poppins = Poppins({
   weight: ['400', '500', '600', '700'],
@@ -24,11 +24,11 @@ export async function generateMetadata(): Promise<Metadata> {
   const t = await getTranslations('Meta');
 
   const imageData = {
-    images: [{ url: env.SITE_URL + '/images/sozler-kosku.jpg' }],
+    images: [{ url: PUBLIC_SITE_URL + '/images/sozler-kosku.jpg' }],
   };
 
   return {
-    metadataBase: new URL(env.SITE_URL),
+    metadataBase: new URL(PUBLIC_SITE_URL),
     title: {
       default: t('Title'),
       template: `%s • ${t('Title')}`,

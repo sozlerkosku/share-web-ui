@@ -8,6 +8,15 @@
         "WhoWeAreWe": "Biz Kimiz?",
         "Hashtag": "SonsuzOl"
     },
+    "Share": {
+        "Title": "Paylaş",
+        "Whatsapp": "Whatsapp'ta Paylaş",
+        "WhatsappText": "Sözler Köşkü Uygulamaları ve Linkleri Burada!",
+        "Telegram": "Telegram'da Paylaş",
+        "TelegramText": "Sözler Köşkü Uygulamaları ve Linkleri Burada!",
+        "CopyLink": "Bağlantıyı Kopyala",
+        "LinkCopied": "Bağlantı Kopyalandı"
+    },
     "SocialMedia": {
         "Youtube": {
             "Title": "Youtube",

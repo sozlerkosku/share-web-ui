@@ -13,3 +13,6 @@ export const locales = [
   { id: 'ur', name: 'اردو', flag: '/flags/pk.svg' },
   { id: 'uz', name: 'Oʻzbek', flag: '/flags/uz.svg' },
 ];
+
+export const PUBLIC_SITE_URL = 'https://localhost:3000';
+export const PUBLIC_SOZLERKOSKU_URL = 'http://sozlerkosku.vercel.app';
