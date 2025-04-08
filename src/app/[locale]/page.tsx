@@ -17,10 +17,6 @@ export default function Page() {
           link={t('SocialMedia.Instagram.URL')}
         />
         <SocialButton
-          text={t('SocialMedia.Twitter.Title')}
-          link={t('SocialMedia.Twitter.URL')}
-        />
-        <SocialButton
           text={t('SocialMedia.Telegram.Title')}
           link={t('SocialMedia.Telegram.URL')}
         />

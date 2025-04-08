@@ -46,7 +46,7 @@ export const LocaleSwitcher = () => {
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
         <Button size="icon" variant="ghost" className="text-white">
-          <AiOutlineGlobal className="h-5 w-5" />
+          <AiOutlineGlobal className="h-7 w-7" />
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent>
