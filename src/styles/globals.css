@@ -2154,3 +2154,9 @@ body {
 .animated-background div {
   margin-bottom: 0px;
 }
+
+.free-palestine {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
