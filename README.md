@@ -8,6 +8,10 @@
 [Report Bug](https://github.com/sozlerkosku/share-web-ui/issues) ·
 [Request Feature](https://github.com/sozlerkosku/share-web-ui/issues)
 
+## 💻 Mockup
+
+![Mockup](https://raw.githubusercontent.com/sozlerkosku/share-web-ui/refs/heads/main/content/mockups.png)
+
 ## 🪄 Stack
 
 - [`Next.js`](https://nextjs.org/)
