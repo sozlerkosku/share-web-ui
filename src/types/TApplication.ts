@@ -1,4 +1,3 @@
 export type TApplication = {
-    name: string;
-  };
-  
+  name: string;
+};

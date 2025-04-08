@@ -77,13 +77,17 @@ export default async function RootLayout({
       <body
         className={`${poppins.variable} mx-auto flex flex-col flex justify-between items-center min-h-screen antialiased`}
       >
-     <section className="animated-background"><div id="stars1"></div><div id="stars2"></div><div id="stars3"></div></section> 
+        <section className="animated-background">
+          <div id="stars1"></div>
+          <div id="stars2"></div>
+          <div id="stars3"></div>
+        </section>
         <NextIntlClientProvider>
           <Providers>
-          <div className="min-h-screen">
-            <Header />
+            <div className="min-h-screen">
+              <Header />
               <main className="grow">{children}</main>
-            <Footer />
+              <Footer />
             </div>
           </Providers>
         </NextIntlClientProvider>
