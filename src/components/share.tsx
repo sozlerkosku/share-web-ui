@@ -32,8 +32,8 @@ export const Share = () => {
       </Dialog.Trigger>
       <Dialog.Portal>
         <Dialog.Overlay className="dialog-overlay" />
-        <Dialog.Content className="dialog-content bg-white dark:bg-gray-900 fixed top-[50%] left-[50%] w-[90vw] max-w-[350px] translate-x-[-50%] translate-y-[-50%] rounded-md shadow-lg p-6 focus:outline-none">
-          <Dialog.Title className="text-center text-2xl font-bold text-gray-900 dark:text-gray-200 mb-10">
+        <Dialog.Content className="dialog-content bg-white fixed top-[50%] left-[50%] w-[90vw] max-w-[350px] translate-x-[-50%] translate-y-[-50%] rounded-md shadow-lg p-6 focus:outline-none">
+          <Dialog.Title className="text-center text-2xl font-bold text-gray-900 mb-10">
             {t('Share.Title')}
           </Dialog.Title>
           <div className="flex flex-col items-center justify-center gap-8 mb-10 w-full">
