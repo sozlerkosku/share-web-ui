@@ -18,7 +18,7 @@ export const WhoWeAre = () => {
         {t('WhoWeAre.Title')}
       </div>
       <div
-        className={`w-5xl ${isOpen ? 'block' : 'hidden'} bg-white p-4 rounded-3xl shadow-lg`}
+        className={`w-full lg:w-5xl ${isOpen ? 'block' : 'hidden'} bg-white p-4 rounded-3xl shadow-lg`}
       >
         {t.rich('WhoWeAre.Content', {
           h2: (chunks) => <h2 className="font-bold block text-lg">{chunks}</h2>,

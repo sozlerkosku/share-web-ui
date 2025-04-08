@@ -86,7 +86,7 @@ export default async function RootLayout({
           <Providers>
             <div className="min-h-screen">
               <Header />
-              <main className="grow">{children}</main>
+              <main className="grow mx-5">{children}</main>
               <Footer />
             </div>
           </Providers>

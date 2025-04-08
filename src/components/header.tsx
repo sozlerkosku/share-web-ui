@@ -23,7 +23,7 @@ export const Header = () => {
           </Link>
         </div>
         <div className="mt-8">
-          <h1 className="text-2xl font-bold text-white text-shadow-xs">
+          <h1 className="text-4xl font-bold text-white text-shadow-xs">
             {t('Home.Title')}
           </h1>
         </div>
