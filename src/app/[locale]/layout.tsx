@@ -13,6 +13,7 @@ import Providers from '@/providers/providers';
 
 import type { Metadata } from 'next';
 import { PUBLIC_SITE_URL } from '@/utils/constants';
+import { FlagOfPalestine } from '@/components/flag-of-palestine';
 
 const poppins = Poppins({
   weight: ['400', '500', '600', '700'],
@@ -88,6 +89,7 @@ export default async function RootLayout({
               <Header />
               <main className="grow mx-5">{children}</main>
               <Footer />
+              <FlagOfPalestine />
             </div>
           </Providers>
         </NextIntlClientProvider>
