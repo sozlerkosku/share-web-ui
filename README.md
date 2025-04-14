@@ -18,7 +18,6 @@
 - [`TypeScript`](https://www.typescriptlang.org/)
 - [`TailwindCSS`](https://tailwindcss.com/)
 - [`Vercel`](https://vercel.com/)
-- [`Resend`](https://resend.com/)
 
 ## 🏁 Run project locally
 
