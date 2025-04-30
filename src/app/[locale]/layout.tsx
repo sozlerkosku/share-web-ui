@@ -76,9 +76,9 @@ export default async function RootLayout({
       className="scroll-smooth"
     >
       <body
-        className={`${poppins.variable} mx-auto flex flex-col flex justify-between items-center min-h-screen antialiased`}
+        className={`${poppins.variable} mx-auto flex flex-col justify-between items-center min-h-screen antialiased`}
       >
-        <section className="animated-background">
+        <section className="animated-background w-full h-full fixed top-0 left-0 z-[-1]">
           <div id="stars1"></div>
           <div id="stars2"></div>
           <div id="stars3"></div>

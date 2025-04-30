@@ -1,8 +1,6 @@
 @import 'tailwindcss';
 @config "../../tailwind.config.ts";
 
-@tailwind base;
-@tailwind components;
 @tailwind utilities;
 
 @layer base {
@@ -12,16 +10,6 @@
     --popover: 0 0% 100%;
     --popover-foreground: 240 10% 3.9%;
     --border: 240 5.9% 90%;
-  }
-}
-
-@layer base {
-  * {
-    @apply border-border;
-  }
-
-  body {
-    @apply bg-background text-foreground;
   }
 }
 
@@ -53,7 +41,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-  min-height: 100vh;
   font-family: var(--font-poppins);
   background: linear-gradient(to bottom, #ef5329, #f5af32);
   animation-fill-mode: forwards;
