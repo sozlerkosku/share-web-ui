@@ -5,13 +5,18 @@ import { SocialIcon } from 'react-social-icons';
 interface ButtonProps {
   text: string;
   link: string;
+  visible: string;
 }
 
-export const SocialButton = ({ text, link }: ButtonProps) => {
+export const SocialButton = ({ text, link, visible }: ButtonProps) => {
   const openUrl = (e: React.MouseEvent<HTMLButtonElement>) => {
     e.preventDefault();
     window.open(link, '_blank');
   };
+
+  if (visible === 'false') {
+    return null;
+  }
 
   return (
     <button

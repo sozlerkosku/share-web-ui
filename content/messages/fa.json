@@ -20,31 +20,38 @@
     "SocialMedia": {
         "Youtube": {
             "Title": "یوتیوب",
-            "URL": "https://www.youtube.com/@TowardsEternityPersian"
+            "URL": "https://www.youtube.com/@TowardsEternityPersian",
+            "Visible": "true"
         },
         "Instagram": {
             "Title": "اینستاگرام",
-            "URL": "https://www.instagram.com/sozlerkosku"
+            "URL": "https://www.instagram.com/sozlerkosku",
+            "Visible": "true"
         },
         "Twitter": {
             "Title": "توییتر",
-            "URL": "https://x.com/sozler_kosku"
+            "URL": "https://x.com/sozler_kosku",
+            "Visible": "true"
         },
         "Telegram": {
             "Title": "تلگرام",
-            "URL": "https://t.me/sozlerkoskuresmi"
+            "URL": "https://t.me/sozlerkoskuresmi",
+            "Visible": "true"
         },
         "TikTok": {
             "Title": "تیک تاک",
-            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok",
+            "Visible": "true"
         },
         "Spotify": {
             "Title": "اسپاتیفای",
-            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd",
+            "Visible": "false"
         },
         "Patreon": {
             "Title": "پاتreon",
-            "URL": "https://www.patreon.com/towardseternity"
+            "URL": "https://www.patreon.com/towardseternity",
+            "Visible": "true"
         }
     },
     "WhoWeAre": {

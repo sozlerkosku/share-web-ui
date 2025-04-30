@@ -20,31 +20,38 @@
     "SocialMedia": {
         "Youtube": {
             "Title": "Youtube",
-            "URL": "https://www.youtube.com/@TowardsEternityFrancais"
+            "URL": "https://www.youtube.com/@TowardsEternityFrancais",
+            "Visible": "true"
         },
         "Instagram": {
             "Title": "Instagram",
-            "URL": "https://www.instagram.com/sozlerkosku"
+            "URL": "https://www.instagram.com/sozlerkosku",
+            "Visible": "true"
         },
         "Twitter": {
             "Title": "Twitter",
-            "URL": "https://x.com/sozler_kosku"
+            "URL": "https://x.com/sozler_kosku",
+            "Visible": "true"
         },
         "Telegram": {
             "Title": "Telegram",
-            "URL": "https://t.me/sozlerkoskuresmi"
+            "URL": "https://t.me/sozlerkoskuresmi",
+            "Visible": "true"
         },
         "TikTok": {
             "Title": "TikTok",
-            "URL": "https://www.tiktok.com/@sozlerkoskutiktok"
+            "URL": "https://www.tiktok.com/@sozlerkoskutiktok",
+            "Visible": "true"
         },
         "Spotify": {
             "Title": "Spotify",
-            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd"
+            "URL": "https://open.spotify.com/show/2KOaKlh1uqEn13CMgc3ALQ?si=bfc10ae318ca47d3&nd=1&dlsi=147f12c677634bfd",
+            "Visible": "false"
         },
         "Patreon": {
             "Title": "Patreon",
-            "URL": "https://www.patreon.com/towardseternity"
+            "URL": "https://www.patreon.com/towardseternity",
+            "Visible": "true"
         }
     },
     "WhoWeAre": {
