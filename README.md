@@ -1,6 +1,6 @@
 # Sözler Köşkü İlim ve Kültür Derneği
 
-[![Support Palestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+[![Support Palestine](https://raw.githubusercontent.com/mustafagenc/palestine/refs/heads/main/banners/b-2.svg)](https://github.com/mustafagenc/palestine/blob/main/Support.md)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/97720bb7-2701-47c4-9432-ab82557319c6/deploy-status)](https://app.netlify.com/sites/sozlerkosku-share/deploys) [![CodeFactor](https://www.codefactor.io/repository/github/sozlerkosku/share-web-ui/badge)](https://www.codefactor.io/repository/github/sozlerkosku/share-web-ui) [![HelpWanted](https://img.shields.io/badge/Help%20Wanted-Contribute-blue)](https://github.com/sozlerkosku/share-web-ui/issues?q=is:issue+is:open+label:%22%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8Fhelp+wanted%22) [![Commit Per Month](https://img.shields.io/github/commit-activity/m/sozlerkosku/share-web-ui?)](https://github.com/sozlerkosku/share-web-ui/commits/main) [![Last Commit](https://img.shields.io/github/last-commit/sozlerkosku/share-web-ui?)](https://github.com/sozlerkosku/share-web-ui/commits/main) ![License](https://img.shields.io/github/license/sozlerkosku/share-web-ui?label=License) [![Github Star](https://img.shields.io/github/stars/sozlerkosku/share-web-ui)](https://github.com/sozlerkosku/share-web-ui/stargazers)
 
