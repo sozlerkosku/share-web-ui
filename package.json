@@ -30,7 +30,7 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "i": "^0.3.7",
-    "lucide-react": "^0.487.0",
+    "lucide-react": "^0.510.0",
     "next": "15.2.4",
     "next-intl": "^4.0.2",
     "next-share": "^0.27.0",
